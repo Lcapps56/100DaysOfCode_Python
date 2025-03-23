@@ -31,3 +31,4 @@ resources = {
 }
 
 def get_order():
+    order = input("what would you like to drink")
